@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://makeup-mantra.vercel.app/sitemap.xml
+
+# Disallow admin or private pages if any
+# User-agent: *
+# Disallow: /admin/

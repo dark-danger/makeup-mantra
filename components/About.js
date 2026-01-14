@@ -24,15 +24,15 @@ export default function About() {
 
                         <div className="space-y-6 text-gray-300 text-lg leading-relaxed">
                             <p>
-                                <span className="text-accent-gold font-semibold">Makeup Mantra</span> is a premium makeup studio based in Karnal, offering professional bridal, party, and special occasion makeup services.
+                                <span className="text-accent-gold font-semibold">Makeup Mantra</span> is a premium makeup studio based in <span className="text-primary-light font-semibold">Karnal, Haryana</span>, offering professional bridal, party, and special occasion makeup services.
                             </p>
 
                             <p>
-                                Founded by <span className="text-primary-light font-semibold">Jyoti Mehta</span>, the studio focuses on enhancing natural beauty with high-quality products and personalized looks.
+                                Founded by <span className="text-primary-light font-semibold">Jyoti Mehta</span>, the best makeup artist in Karnal, our studio focuses on enhancing natural beauty with high-quality products and personalized looks for weddings, engagements, and receptions.
                             </p>
 
                             <p>
-                                We believe that every individual is unique, and our mission is to bring out your inner radiance with makeup artistry that complements your personality and style.
+                                We believe that every individual is unique, and our mission is to bring out your inner radiance with professional makeup artistry that complements your personality and style. Serving Karnal and nearby areas with premium bridal makeup packages.
                             </p>
                         </div>
 

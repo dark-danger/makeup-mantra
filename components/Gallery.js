@@ -8,23 +8,23 @@ export default function Gallery() {
         },
         {
             url: 'https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?w=800&h=600&fit=crop',
-            alt: 'Party Makeup Look',
+            alt: 'Party makeup services Karnal - Professional makeup artist',
         },
         {
             url: 'https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=800&h=600&fit=crop',
-            alt: 'Professional Makeup Application',
+            alt: 'Professional makeup artist Karnal - HD makeup application',
         },
         {
             url: 'https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800&h=600&fit=crop',
-            alt: 'Bridal Makeup Look 2',
+            alt: 'Wedding makeup artist Karnal - Bridal beauty',
         },
         {
             url: 'https://images.unsplash.com/photo-1583001931096-959e9a1a6223?w=800&h=600&fit=crop',
-            alt: 'Engagement Makeup Look',
+            alt: 'Engagement makeup artist Karnal - Reception makeup',
         },
         {
             url: 'https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=800&h=600&fit=crop',
-            alt: 'HD Makeup Finish',
+            alt: 'Airbrush makeup Karnal - HD makeup finish',
         },
     ];
 

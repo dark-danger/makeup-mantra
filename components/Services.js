@@ -1,14 +1,14 @@
 export default function Services() {
     const services = [
         {
-            title: 'Bridal Makeup',
-            description: 'Stunning bridal looks that make your special day unforgettable with long-lasting, camera-ready perfection.',
+            title: 'Bridal Makeup in Karnal',
+            description: 'Stunning bridal looks that make your special day unforgettable with long-lasting, camera-ready perfection. Best bridal makeup artist in Karnal.',
             icon: '👰',
             gradient: 'from-pink-500 to-rose-500',
         },
         {
-            title: 'Party Makeup',
-            description: 'Glamorous party makeup for all occasions, designed to make you stand out and feel confident.',
+            title: 'Party Makeup Services',
+            description: 'Glamorous party makeup for all occasions in Karnal, designed to make you stand out and feel confident.',
             icon: '💃',
             gradient: 'from-purple-500 to-pink-500',
         },
@@ -19,8 +19,8 @@ export default function Services() {
             gradient: 'from-rose-500 to-red-500',
         },
         {
-            title: 'HD / Airbrush Makeup',
-            description: 'Flawless, high-definition makeup using advanced airbrush techniques for a picture-perfect finish.',
+            title: 'HD / Airbrush Makeup Karnal',
+            description: 'Flawless, high-definition makeup using advanced airbrush techniques for a picture-perfect finish. Professional airbrush makeup in Karnal.',
             icon: '✨',
             gradient: 'from-amber-500 to-orange-500',
         },

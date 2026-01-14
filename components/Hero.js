@@ -17,7 +17,7 @@ export default function Hero() {
             {/* Content */}
             <div className="relative z-10 text-center px-4 sm:px-6 max-w-5xl mx-auto animate-fade-in">
                 <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-playfair font-bold mb-4 md:mb-6 leading-tight">
-                    <span className="gradient-text">Makeup Mantra</span>
+                    <span className="gradient-text">Best Bridal Makeup Artist in Karnal</span>
                 </h1>
 
                 <p className="text-lg sm:text-xl md:text-3xl lg:text-4xl font-playfair mb-3 md:mb-4 text-accent-rose">
@@ -25,7 +25,7 @@ export default function Hero() {
                 </p>
 
                 <p className="text-base sm:text-lg md:text-xl lg:text-2xl mb-8 md:mb-12 text-gray-300 font-light">
-                    Professional Bridal & Party Makeup by Jyoti Mehta
+                    Professional Bridal & Party Makeup Services in Karnal, Haryana by Jyoti Mehta
                 </p>
 
                 <button
